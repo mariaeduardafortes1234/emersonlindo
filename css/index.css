@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #011855;
+}
+h1{
+    text-align: center;
+    font-family: Arial, "Helvetica neue", Helvetica, sans-serif;
+    font-size: 50px;
+    color: #fff;
+}
+p{
+    text-align: center;
+    font-family: Arial, "Helvetica neue", Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 40vh;
+    color: #fff;
+}
+button{
+    padding: auto;
+    background-color: #fff;
+    color: black;
+    border:  2px ;
+    margin-top: 10vh;
+    margin-left: 100vh;
+    size: 50vh;
+    height: 3vh;
+    width: 12;
+}
